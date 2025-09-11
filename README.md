@@ -1,5 +1,5 @@
-**AppSentience: Multilingual Sentiment Analysis**
-📊 AppSentience: Multilingual Sentiment Analysis
+**📊AppSentience: Multilingual Sentiment Analysis**
+
 📌 Overview
 
 This project focuses on analyzing mobile app reviews written in multiple languages using Machine Learning and Natural Language Processing (NLP) techniques.
